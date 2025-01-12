@@ -1,0 +1,10 @@
+<section id="about">
+  <h2>About Me</h2>
+  <p>Hi, I’m Nandini! I’m a third-year student in Government Ploytechnic Nagpur. I love exploring new technologies and solving real-world problems.</p>
+  <h3>Skills</h3>
+  <ul>
+    <li>Programming: Java, Python, HTML, CSS,C </li>
+    <li>Frameworks: Apache Spark</li>
+    <li>Machine Learning: Naive Bayes, Classification Algorithms</li>
+  </ul>
+</section>
