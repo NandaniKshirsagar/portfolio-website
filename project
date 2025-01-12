@@ -1,0 +1,15 @@
+<section id="projects">
+  <h2>Projects</h2>
+  <div class="project">
+    <h3>Apache Spark Multi-Node Cluster</h3>
+    <p>A distributed system to process large datasets efficiently.</p>
+    <p><strong>Technologies:</strong> Spark, Python</p>
+
+  </div>
+  <div class="project">
+    <h3>Phishing Email Detection</h3>
+    <p>A machine learning model to identify phishing emails.</p>
+    <p><strong>Technologies:</strong> Python, Scikit-Learn</p>
+
+  </div>
+</section>
